@@ -1,6 +1,6 @@
 ## ✨ Luíza Lúcio
 
-Hi there! I'm **Luíza Lúcio**, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil 🇧🇷.
+Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil.
 
 - 📊 Passionate about data, visualization and communication.
 - 🐍 I code in **Python** and **R**.
@@ -21,9 +21,9 @@ Hi there! I'm **Luíza Lúcio**, a Statistics student at the Federal University 
 
 ### 🇧🇷 Sobre mim (versão em português)
 
-Olá! Eu sou **Luíza Lúcio**, estudante de Estatística na Universidade Federal de Lavras e apaixonada por dados, gráficos e boas histórias.
+Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federal de Lavras e apaixonada por tecnologia, dados, gráficos e boas histórias.
 
-- 🌐 Estudo também Gestão Financeira no UNIS.
+- 🌐 Também estudo Gestão Financeira no Grupo UNIS.
 - 💻 Programo em **R** e **Python**.
 - 🎓 Participo do PyLadies Lavras, onde ajudo a tornar o mundo da tecnologia mais acessível para mulheres.
 - 🗣️ Falo português, inglês fluente, francês e italiano.
@@ -35,7 +35,7 @@ Olá! Eu sou **Luíza Lúcio**, estudante de Estatística na Universidade Federa
 
 - [LinkedIn](https://www.linkedin.com/in/luizalucio)
 - [Medium](https://medium.com/@luizalucio)
-- 📧 luizalucio@email.com
+- 📧 luizahplucio@email.com
 
 ---
 
@@ -46,3 +46,4 @@ Olá! Eu sou **Luíza Lúcio**, estudante de Estatística na Universidade Federa
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+![Pacman](https://github.com/luizalucio/luizalucio/blob/output/pacman-contribution-graph.svg)
