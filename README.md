@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student+%7C;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,8 +13,6 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 - 💜 Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) — empowering women in tech!
 - 🌍 I speak **Portuguese (native)**, **English (fluent)**, **French** and **Italian**.
 
----
-
 ### 🛠 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=c586ff)
@@ -22,8 +20,6 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 ![Quarto](https://img.shields.io/badge/-Quarto-000?style=flat&logo=quarto&logoColor=c586ff)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode&logoColor=c586ff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=c586ff)
-
----
 
 ### 📈 My Stats
 
@@ -34,8 +30,6 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 
 > You can find my projects, notebooks and experiments here — feel free to explore!
 
----
-
 ### 🇧🇷 Sobre mim (versão em português)
 
 Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federal de Lavras e apaixonada por tecnologia, dados, gráficos e boas histórias.
@@ -45,8 +39,6 @@ Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federa
 - 🎓 Participo do PyLadies Lavras, onde ajudo a tornar o mundo da tecnologia mais acessível para mulheres.
 - 🗣️ Falo português, inglês fluente, francês e italiano.
 - 📍 Lavras - MG
-
----
 
 ### 📫 Let’s connect
 
