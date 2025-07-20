@@ -8,7 +8,7 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 - 🐍 I code in **Python** and **R**.
 - 🧠 Currently learning and building projects with `ggplot2`, `Quarto`, `dashboards`, and data storytelling.
 - 🧮 Also studying Financial Management at UNIS.
-- 💜 Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) — empowering women in tech!
+- 💜 Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) Empowering women in tech!
 - 🌍 I speak **Portuguese (native)**, **English (fluent)**, **French** and **Italian**.
 
 ### 🛠 Technologies & Tools
