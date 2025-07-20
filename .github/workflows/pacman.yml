@@ -1,14 +1,12 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,11 +16,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg (dark mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          # PERSONALIZAÇÃO:
+          background_color: "#0d1117"   # fundo escuro
+          grid_color: "#30363d"         # cor das "paredes"
+          pacman_color: "#fbd405"       # amarelo do pacman
+          ghost_color: "#ff007f"        # rosa/roxo das fantasminhas
+          dot_color: "#ffffff"          # bolinhas
+          outline_color: "#000000"      # contorno
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
