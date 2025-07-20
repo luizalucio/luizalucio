@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FBD405&background=00000000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student+%7C+PyLadies+Lavras;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student+%7C+PyLadies+Lavras;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,19 +19,19 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 
 ### 🛠 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=fbd405)
-![R](https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=lavender)
-![Quarto](https://img.shields.io/badge/-Quarto-000?style=flat&logo=quarto&logoColor=fbd405)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode&logoColor=764f7a)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=c586ff)
+![R](https://img.shields.io/badge/-R-000?style=flat&logo=r&logoColor=c586ff)
+![Quarto](https://img.shields.io/badge/-Quarto-000?style=flat&logo=quarto&logoColor=c586ff)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode&logoColor=c586ff)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=c586ff)
 
 ---
 
 ### 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizalucio&show_icons=true&theme=tokyonight&icon_color=fbd405&title_color=fbd405&text_color=ffffff&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalucio&layout=compact&theme=tokyonight&title_color=fbd405&text_color=ffffff&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizalucio&show_icons=true&theme=tokyonight&icon_color=c586ff&title_color=c586ff&text_color=ffffff&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalucio&layout=compact&theme=tokyonight&title_color=c586ff&text_color=ffffff&bg_color=00000000" height="150"/>
 </p>
 
 > You can find my projects, notebooks and experiments here — feel free to explore!
@@ -52,9 +52,9 @@ Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federa
 
 ### 📫 Let’s connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=fbd405)](https://www.linkedin.com/in/luizalucio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=c586ff)](https://www.linkedin.com/in/luizalucio)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luizalucio)
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=fbd405)](mailto:luizahplucio@email.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=c586ff)](mailto:luizahplucio@email.com)
 
 ---
 
