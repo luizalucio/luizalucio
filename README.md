@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student+%7C+PyLadies+Lavras;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+L%C3%BAcio+%F0%9F%92%9C;Statistics+Student+%7C;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
 </p>
 
 ---
-
-## ✨ Luíza Lúcio
 
 Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil.
 
@@ -56,8 +54,5 @@ Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federa
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luizalucio)
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=c586ff)](mailto:luizahplucio@email.com)
 
----
-
-### Pac-Man Animation
 
 ![Pacman](https://github.com/luizalucio/luizalucio/blob/output/pacman-contribution-graph.svg)
