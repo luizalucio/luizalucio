@@ -4,12 +4,12 @@
 
 Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil.
 
-- 📊 Passionate about data, visualization and communication.
-- 🐍 I code in **Python** and **R**.
-- 🧠 Currently learning and building projects with `ggplot2`, `Quarto`, `dashboards`, and data storytelling.
-- 🧮 Also studying Financial Management at UNIS.
-- 💜 Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) - Empowering women in tech!
-- 🌍 I speak **Portuguese (native)**, **English (fluent)**, **French** and **Italian**.
+- Passionate about data, visualization and communication.
+- I code in **Python** and **R**.
+- Currently learning and building projects with `ggplot2`, `Quarto`, `dashboards`, and data storytelling.
+- Also studying Financial Management at UNIS.
+- Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) - Empowering women in tech!
+- I speak **Portuguese (native)**, **English (fluent)**, **French** and **Italian**.
 
 ### 🛠 Technologies & Tools
 
@@ -19,7 +19,7 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode&logoColor=c586ff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=c586ff)
 
-### 📈 My Stats
+### My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizalucio&show_icons=true&theme=tokyonight&icon_color=c586ff&title_color=c586ff&text_color=ffffff&bg_color=00000000" height="150"/>
@@ -32,13 +32,13 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 
 Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federal de Lavras e apaixonada por tecnologia, dados, gráficos e boas histórias.
 
-- 🌐 Também estudo Gestão Financeira no Grupo UNIS.
-- 💻 Programo em **R** e **Python**.
-- 🎓 Participo do PyLadies Lavras, onde ajudo a tornar o mundo da tecnologia mais acessível para mulheres.
-- 🗣️ Falo português, inglês (fluente), francês e italiano.
-- 📍 Lavras - MG
+- Também estudo Gestão Financeira no Grupo UNIS.
+- Programo em **R** e **Python**.
+- Participo do PyLadies Lavras, onde ajudo a tornar o mundo da tecnologia mais acessível para mulheres.
+- Falo português, inglês (fluente), francês e italiano.
+- Lavras - MG
 
-### 📫 Let’s connect
+### Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=c586ff)](https://www.linkedin.com/in/luizalucio)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luizalucio)
