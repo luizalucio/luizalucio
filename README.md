@@ -22,8 +22,8 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 ### My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizalucio&show_icons=true&theme=tokyonight&icon_color=c586ff&title_color=c586ff&text_color=ffffff&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalucio&layout=compact&theme=tokyonight&title_color=c586ff&text_color=ffffff&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizalucio&show_icons=true&theme=tokyonight&icon_color=c586ff&title_color=c586ff&text_color=ffffff&bg_color=00000000&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalucio&layout=compact&theme=tokyonight&title_color=c586ff&text_color=ffffff&bg_color=00000000&cache_seconds=1800" height="150"/>
 </p>
 
 > You can find my projects, notebooks and experiments here. Feel free to explore!
