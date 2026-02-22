@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C586FF&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lu%C3%ADza+Helena+%F0%9F%92%9C;Statistics+Student;Python+%2B+R+%2B+Quarto+%3D+Love+for+Data" alt="Typing SVG" />
 </p>
 
-Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil.
+Hi there! I'm Luíza Helena, a Statistics student at the Federal University of Lavras (UFLA), from Lavras, MG — Brazil.
 
 - Passionate about data, visualization and communication.
 - I code in **Python** and **R**.
@@ -21,9 +21,9 @@ Hi there! I'm **Luíza Helena**, a Statistics student at the Federal University 
 
 You can find my projects, notebooks and experiments here. Feel free to explore!
 
-### 🇧🇷 Sobre mim (versão em português)
+### 🇧🇷 Sobre mim 
 
-Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federal de Lavras e apaixonada por tecnologia, dados, gráficos e boas histórias.
+Olá! Eu sou Luíza Helena, estudante de Estatística na Universidade Federal de Lavras e apaixonada por tecnologia, dados, gráficos e boas histórias.
 
 - Também estudo Gestão Financeira no Grupo UNIS.
 - Programo em **R** e **Python**.
