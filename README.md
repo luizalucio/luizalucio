@@ -45,4 +45,4 @@ Olá! Eu sou **Luíza Helena**, estudante de Estatística na Universidade Federa
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=c586ff)](mailto:luizahplucio@email.com)
 
 
-![Pacman](https://github.com/luizalucio/luizalucio/blob/output/pacman-contribution-graph.svg)
+![Pacman](https://github.com/luizalucio/luizalucio/blob/output/pacman-contribution-graph.svg) 
