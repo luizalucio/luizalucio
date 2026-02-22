@@ -9,7 +9,7 @@ Hi there! I'm Luíza Helena, a Statistics student at the Federal University of L
 - Currently learning and building projects with `ggplot2`, `Quarto`, `dashboards`, and data storytelling.
 - Also studying Financial Management at UNIS.
 - Member of [PyLadies Lavras](https://github.com/PyLadiesLavras) - Empowering women in tech!
-- I speak **Portuguese (native)**, **English (fluent)**, **French** and **Italian**.
+- I speak Portuguese (native), English (fluent), French (intermediary and Italian.
 
 ### 🛠 Technologies & Tools
 
@@ -28,7 +28,7 @@ Olá! Eu sou Luíza Helena, estudante de Estatística na Universidade Federal de
 - Também estudo Gestão Financeira no Grupo UNIS.
 - Programo em **R** e **Python**.
 - Participo do PyLadies Lavras, onde ajudo a tornar o mundo da tecnologia mais acessível para mulheres.
-- Falo português, inglês (fluente), francês e italiano.
+- Falo português, inglês (fluente), francês (intermediário) e italiano.
 - Lavras - MG
 
 ### Let’s connect
